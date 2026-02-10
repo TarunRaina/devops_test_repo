@@ -1,0 +1,44 @@
+    1  ls
+    2  touch file1.txt
+    3  git init
+    4  git clone https://github.com/TarunRaina/devops_test_repo.git
+    5  cd devops_test_repo
+    6  touch day2.txt
+    7  pwd
+    8  ls
+    9  ls *.txt
+   10  ls *.??
+   11  history
+   12  history > day2.txt
+   13  ifconfig
+   14  ip a
+   15  cat file1.txt
+   16  cat day1.txt
+   17  cat testfile1.txt
+   18  cat day2.txt
+   19  history > day2.txt
+   20  git add .
+   21  git commit -m "day2 file - updated from vscode (windows) using ssh for linux"
+   22  git config --global user.name "tarunraina.691@gmail.com"\
+   23  git config --global user.name "tarunraina.691@gmail.com"
+   24  git config --global user.name "TarunRaina"
+   25  git config user.name
+   26  git config --global user.email "tarunraina.691@gmail.com"
+   27  git config user.name
+   28  git config user.email
+   29  git commit -m "day2 file - updated from vscode (windows) using ssh for linux"
+   30  git push -u origin main
+   31  touch githubpass.txt
+   32  git push -u origin main
+   33  git checkout day2_branch
+   34  git status
+   35  git branch
+   36  ls
+   37  rm day2.txt
+   38  git add day2.txt
+   39  git commit -m "Remove day2.txt from main"
+   40  git push
+   41  git checkout -b day2_branch
+   42  git branch
+   43  touch day2.txt
+   44  history > day2.txt
